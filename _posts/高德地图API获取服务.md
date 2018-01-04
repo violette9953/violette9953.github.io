@@ -2,7 +2,7 @@
 layout: article
 title:  "麻辣烫、冒菜、柳州螺蛳粉、潮州鱼蛋粉在全国的分布"
 date:   2017-11-24 22:07:50 +0800
-categories: infovis visualization
+categories: visualization
 image:
   teaser: restaurant.png
   feature: restaurant.png
