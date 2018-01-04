@@ -1,11 +1,12 @@
 ---
-layout: article
+layout: default
 title:  "可视化作品"
 date:   2018-1-04 22:07:50 +0800
 categories: infovis
 image:
   teaser: keshihua.jpg
   feature: keshihua.jpg
+---
   
   ## 中国各省麻辣烫、冒菜、柳州螺蛳粉、潮州鱼蛋粉的分布
   
