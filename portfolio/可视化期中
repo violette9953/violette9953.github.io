@@ -1,7 +1,14 @@
 ---
-layout: default
-title:  "可视化期中专案“
-categories: infovis
+layout: archive
+title: "信息可视化作品集"
+date: 2018-1-1T14:25:45-04:00
+modified:
+categories: visualization
+excerpt: "꒰⑅•ᴗ•⑅꒱"
+tags: []
+image: 
+  feature: visualization.gif
+  teaser:
 ---
 #嵌入的代码内容
 <div class="text">
