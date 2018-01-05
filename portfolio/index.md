@@ -12,5 +12,7 @@ image:
 
 
 <div class="tiles">
-<a href="guorong.html" target="view_window">Preface></a>
+{% for post in site.categories. portfolio %}
+  {% include guorong.html %}
+{% endfor %}
 </div><!-- /.tiles 把所有categories 有 portfolio 的列出来-->
