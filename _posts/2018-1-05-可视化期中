@@ -1,14 +1,11 @@
 ---
-layout: archive
-title: "信息可视化作品集"
-date: 2018-1-1T14:25:45-04:00
-modified:
-categories: visualization
-excerpt: "꒰⑅•ᴗ•⑅꒱"
-tags: []
-image: 
-  feature: visualization.gif
-  teaser:
+layout: article
+title:  "可视化期中项目"
+date:   2017-11-08 22:07:50 +0800
+categories: infovis
+image:
+  teaser: thebirthrate.png
+  feature: thebirthrate.png
 ---
 #嵌入的代码内容
 <div class="text">
