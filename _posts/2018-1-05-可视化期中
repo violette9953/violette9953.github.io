@@ -1,11 +1,12 @@
 ---
 layout: article
-title:  "可视化期中项目"
-date:   2017-11-08 22:07:50 +0800
-categories: infovis
+title:  "信息可视化期中小组作品"
+date:   2018-1-3 22:07:50 +0800
+categories:  visualization
 image:
   teaser: thebirthrate.png
   feature: thebirthrate.png
+---
 ---
 #嵌入的代码内容
 <div class="text">
